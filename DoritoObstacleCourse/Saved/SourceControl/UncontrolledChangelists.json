@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ephir/OneDrive/Documents/GitHub/DoritoObstacleCourse/DoritoObstacleCourse/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ephir/OneDrive/Documents/GitHub/DoritoObstacleCourse/DoritoObstacleCourse/Content/CuttingObstacle.uasset",
+				"C:/Users/ephir/OneDrive/Documents/GitHub/DoritoObstacleCourse/DoritoObstacleCourse/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ephir/OneDrive/Documents/GitHub/DoritoObstacleCourse/DoritoObstacleCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/I7/58ZK4C3SMCFVQ40KB9KGQX.uasset"
+			]
+		}
+	]
+}
